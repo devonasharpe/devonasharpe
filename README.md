@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Digital marketer and project manager based in Paris, focused on practical uses of AI in marketing, digital transformation, ops, and project management. Equally exploring and experimenting with AI uses for everyday life.
+Digital marketer and project manager based in Paris, focused on the use of AI in marketing, digital transformation, ops, and project management. Equally exploring and experimenting with AI uses for everyday life.
 
 <!-- -->
 ### Currently working on:
@@ -21,7 +21,7 @@ Digital marketer and project manager based in Paris, focused on practical uses o
 - SEO skill shift to AEO and GEO
 
 ### Tinkering with:
-- Corporate tools and practices, reimagined for solopreneurs
+- Corporate tools reimagined for solopreneurs
 
 ---  
 
